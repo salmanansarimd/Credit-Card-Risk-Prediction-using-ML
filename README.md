@@ -1,0 +1,1 @@
+This project focuses on analyzing mental health–related data to understand patterns in stress levels, sleep hours, and other factors. The analysis is performed using Python and common data science libraries, with an emphasis on exploratory data analysis (EDA) and visualization.
